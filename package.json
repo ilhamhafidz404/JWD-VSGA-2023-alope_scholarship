@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "datatables.net-dt": "^1.13.6",
+    "sweetalert2": "^11.7.28"
+  }
+}
